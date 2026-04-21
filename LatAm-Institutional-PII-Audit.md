@@ -12,7 +12,7 @@
 
 I. The WHY?
 
-&#x09;This project was done with the intention of figuring out how in emerging markets (in this case Ecuador) weaponize their government portals intended for transparency. Because most of South America works with a very centralized government it is vulnerable to high levels of corruption. That is why the government portals are that transparent. This with the intent to target a high-interest individual. This was done by cross-referencing Public tax, transit, and academic databases without the use of intrusive measures like malware or by fishing the intended target. Allowing me to fully map the target's physical and financial reality through a fully legal process.
+&#x09;This project was done with the intention of figuring out how in emerging markets (in this case Ecuador) weaponize their government portals intended for transparency. Because most of South America works with a very centralized government it is vulnerable to high levels of corruption. That is why the government portals are that transparent. This with the intent to target a high-interest individual. This was done by cross-referencing Public tax, transit, and academic databases without the use of intrusive measures like malware or by phishing the intended target. Allowing me to fully map the target's physical and financial reality through a fully legal process.
 
 
 
